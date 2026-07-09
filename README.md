@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/udaysingh07707/dsa-practice/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/udaysingh07707/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 ## Two Pointers
