@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/udaysingh07707/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +124,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/udaysingh07707/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/udaysingh07707/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
