@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
 ## Array
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/udaysingh07707/dsa-practice/tree/master/0704-binary-search) |
