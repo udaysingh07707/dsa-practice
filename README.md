@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [1402-reducing-dishes](https://github.com/udaysingh07707/dsa-practice/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/udaysingh07707/dsa-practice/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/udaysingh07707/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysingh07707/dsa-practice/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/udaysingh07707/dsa-practice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysingh07707/dsa-practice/tree/master/2187-minimum-time-to-complete-trips) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [1402-reducing-dishes](https://github.com/udaysingh07707/dsa-practice/tree/master/1402-reducing-dishes) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,5 +135,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/udaysingh07707/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/udaysingh07707/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
