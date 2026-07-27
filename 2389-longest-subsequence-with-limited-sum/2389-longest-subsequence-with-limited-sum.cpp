@@ -12,13 +12,8 @@ public:
         }
         
         for(int  i = 0 ; i<m;i++){
-            int count = 0;
-            for(int j = 0;j<n;j++){
-                if(nums[j] <= queries[i]){
-                    count++;
-                }
-            }
-            ans[i] = count;
+            int el = upper_bound(nums.begin(),nums.end(),queries[i]) - nums.begin();
+            ans[i] = el;
 
         }
         return ans;
