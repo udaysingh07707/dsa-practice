@@ -4,7 +4,7 @@ public:
         int n = nums.size();
       
         for(int i = 0;i<n;i++){
-            int old = nums[i]%n;
+            int old = nums[i];
             int newvalue = nums[old]%n;
             nums[i] = old + newvalue*n;
         }
