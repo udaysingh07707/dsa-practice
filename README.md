@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysingh07707/dsa-practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
 ## Trie
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/udaysingh07707/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaysingh07707/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
