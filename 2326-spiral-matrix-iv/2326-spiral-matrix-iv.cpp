@@ -3,7 +3,6 @@ class Solution {
 public:
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
         vector<vector<int>> v(m,vector<int>(n,-1));
-        int count = 1;
         int top = 0;
         int right = n-1;
         int bottom = m-1;
@@ -43,8 +42,8 @@ public:
                     v[i][left] = temp->val;
                     temp = temp->next;
                 }
-            }
             left++;
+            }
         }
         return v;
     }
