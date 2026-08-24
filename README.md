@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysingh07707/dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysingh07707/dsa-practice/tree/master/2187-minimum-time-to-complete-trips) |
+| [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/udaysingh07707/dsa-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
+| [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/udaysingh07707/dsa-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Number Theory
 |  |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
