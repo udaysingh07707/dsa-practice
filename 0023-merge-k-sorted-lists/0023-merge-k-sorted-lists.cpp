@@ -23,16 +23,18 @@ public:
         return newnode->next;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
+        
         if(lists.size()<1){
             return NULL;
         }
-        while(lists.size()>1){
-            ListNode* a = lists[lists.size()-1];
-            lists.pop_back();
-            ListNode* b = lists[lists.size()-1];
-            lists.pop_back(); 
-            ListNode* c = merge(a,b);
-            lists.push_back(c);
+        int  n = lists.size();
+        while(n>1){
+            int j = 0;
+           for(int i = 0;i<n;i += 2){
+            if(i+1<n) lists[j++] = merge(lists[i],lists[i+1]);
+            else lists[j++] = lists[i];
+           }
+           n = j;
 
         }
         return lists[0];
