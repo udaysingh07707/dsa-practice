@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udaysingh07707/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/udaysingh07707/dsa-practice/tree/master/0443-string-compression) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udaysingh07707/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/udaysingh07707/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaysingh07707/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
