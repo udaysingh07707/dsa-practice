@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/udaysingh07707/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/udaysingh07707/dsa-practice/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/udaysingh07707/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/udaysingh07707/dsa-practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/udaysingh07707/dsa-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/udaysingh07707/dsa-practice/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
 ## Depth-First Search
 |  |
 | ------- |
