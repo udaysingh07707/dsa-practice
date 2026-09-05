@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/udaysingh07707/dsa-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaysingh07707/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1402-reducing-dishes](https://github.com/udaysingh07707/dsa-practice/tree/master/1402-reducing-dishes) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/udaysingh07707/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysingh07707/dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/udaysingh07707/dsa-practice/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/udaysingh07707/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/udaysingh07707/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/udaysingh07707/dsa-practice/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
