@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/udaysingh07707/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/udaysingh07707/dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysingh07707/dsa-practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/udaysingh07707/dsa-practice/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/udaysingh07707/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/udaysingh07707/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/udaysingh07707/dsa-practice/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Data Stream
 |  |
 | ------- |
