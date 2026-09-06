@@ -1,23 +1,6 @@
 class Solution {
 public:
-   void  insertatbottom(string x,stack<string>& st){
-     if(st.empty()){
-        st.push(x);
-        return;
-     }
-     string l = st.top();
-     st.pop();
-     insertatbottom(x,st);
-     st.push(l);
-   }
-    void rev(stack<string>& st){
-        if(st.empty()) return;
-        string x = st.top();
-        st.pop();
-        rev(st);
-        insertatbottom(x,st);
-    }
-
+  
     string simplifyPath(string path) {
        stack<string> st;
        int n = path.length();
@@ -44,16 +27,13 @@ public:
                 st.push(part);
             }
         }
-        rev(st);
-        while(!st.empty()){
-            s = s+st.top();
-            if(st.size() != 1){
-                s += '/';
-                st.pop();
-            }else{
-                st.pop();
-            }
-        }
-        return s;
+          string ans = "";
+
+    while (!st.empty()) {
+        ans = "/" + st.top() + ans;
+        st.pop();
+    }
+
+    return ans.empty() ? "/" : ans;
     }
 };
