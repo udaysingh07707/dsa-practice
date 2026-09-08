@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/udaysingh07707/dsa-practice/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/udaysingh07707/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/udaysingh07707/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sorting
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
+| [2390-removing-stars-from-a-string](https://github.com/udaysingh07707/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/udaysingh07707/dsa-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Number Theory
 |  |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/udaysingh07707/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2390-removing-stars-from-a-string](https://github.com/udaysingh07707/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
