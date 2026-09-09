@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/udaysingh07707/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaysingh07707/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udaysingh07707/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/udaysingh07707/dsa-practice/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udaysingh07707/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/udaysingh07707/dsa-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/udaysingh07707/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/udaysingh07707/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/udaysingh07707/dsa-practice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/udaysingh07707/dsa-practice/tree/master/0682-baseball-game) |
