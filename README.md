@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/udaysingh07707/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0622-design-circular-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/udaysingh07707/dsa-practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/udaysingh07707/dsa-practice/tree/master/0704-binary-search) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0622-design-circular-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/udaysingh07707/dsa-practice/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/udaysingh07707/dsa-practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/udaysingh07707/dsa-practice/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/udaysingh07707/dsa-practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -361,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/udaysingh07707/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
