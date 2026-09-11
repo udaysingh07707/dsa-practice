@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/udaysingh07707/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0061-rotate-list) |
