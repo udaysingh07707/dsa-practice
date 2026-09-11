@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/udaysingh07707/dsa-practice/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0287-find-the-duplicate-number) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/udaysingh07707/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysingh07707/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/udaysingh07707/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
@@ -374,10 +377,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/udaysingh07707/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/udaysingh07707/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/udaysingh07707/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
