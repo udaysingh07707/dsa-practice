@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/udaysingh07707/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/udaysingh07707/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/udaysingh07707/dsa-practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/udaysingh07707/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/udaysingh07707/dsa-practice/tree/master/0118-pascals-triangle) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/udaysingh07707/dsa-practice/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/udaysingh07707/dsa-practice/tree/master/0141-linked-list-cycle) |
@@ -393,4 +396,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/udaysingh07707/dsa-practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/udaysingh07707/dsa-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
