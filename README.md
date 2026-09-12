@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/udaysingh07707/dsa-practice/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/udaysingh07707/dsa-practice/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/udaysingh07707/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/udaysingh07707/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/udaysingh07707/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
+| [0649-dota2-senate](https://github.com/udaysingh07707/dsa-practice/tree/master/0649-dota2-senate) |
 | [1402-reducing-dishes](https://github.com/udaysingh07707/dsa-practice/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/udaysingh07707/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/udaysingh07707/dsa-practice/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/udaysingh07707/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Queue
 |  |
