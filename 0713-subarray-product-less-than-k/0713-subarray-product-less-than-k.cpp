@@ -4,15 +4,15 @@ public:
         if(k<=1) return 0;
         int n = nums.size();
         int i = 0;
-        int product = 1;
-        int count = 0;
-        for(int j = 0 ; j<n ;j++){
-            product *= nums[j];
-            while(product >= k){
-                product /= nums[i];
+       int count = 0;
+        int p = 1;
+        for(int j = 0;j<n;j++){
+            p = p*nums[j];
+            while( p>=k){
+                p = p/nums[i];
                 i++;
             }
-            count += (j - i + 1);
+            count += j-i+1;
         }
         return count;
     }
