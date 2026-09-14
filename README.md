@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/udaysingh07707/dsa-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/udaysingh07707/dsa-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/udaysingh07707/dsa-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/udaysingh07707/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/udaysingh07707/dsa-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/udaysingh07707/dsa-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/udaysingh07707/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/udaysingh07707/dsa-practice/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Number Theory
 |  |
 | ------- |
