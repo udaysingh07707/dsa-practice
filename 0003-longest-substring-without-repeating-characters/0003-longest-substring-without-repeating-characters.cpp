@@ -2,7 +2,7 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.length();
-        if(s.length()<=1) return 1;
+        if(s.length() == 0) return 0;
         int i = 0;
         int size = 1;
         int j = 1;
