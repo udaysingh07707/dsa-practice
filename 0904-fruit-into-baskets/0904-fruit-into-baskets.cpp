@@ -7,10 +7,10 @@ public:
         int j = 0;
         int size = 0;
         while(j<n){
-            if(map.size()<=2){
+          
                 map[fruits[j]]++;
                 j++;
-            }
+          
             while(map.size()>2){
                 map[fruits[i]]--;
                 if(map[fruits[i]] == 0){
