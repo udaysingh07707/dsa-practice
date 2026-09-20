@@ -437,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
