@@ -9,12 +9,7 @@
  */
 class Solution {
 public:
-    bool searchnode(TreeNode* root,TreeNode* p){
-                if(root == NULL) return false;
-                if(root == p) return true;
-                return searchnode(root->left,p) || searchnode(root->right,p);
-                
-    }
+   
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
          if(root == NULL) return NULL;
          if(root == p|| root == q) return root;
