@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [1094-car-pooling](https://github.com/udaysingh07707/dsa-practice/tree/master/1094-car-pooling) |
 | [1402-reducing-dishes](https://github.com/udaysingh07707/dsa-practice/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Array
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysingh07707/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/udaysingh07707/dsa-practice/tree/master/1052-grumpy-bookstore-owner) |
+| [1094-car-pooling](https://github.com/udaysingh07707/dsa-practice/tree/master/1094-car-pooling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaysingh07707/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaysingh07707/dsa-practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1402-reducing-dishes](https://github.com/udaysingh07707/dsa-practice/tree/master/1402-reducing-dishes) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/udaysingh07707/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0658-find-k-closest-elements) |
+| [1094-car-pooling](https://github.com/udaysingh07707/dsa-practice/tree/master/1094-car-pooling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/udaysingh07707/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysingh07707/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/udaysingh07707/dsa-practice/tree/master/1094-car-pooling) |
 | [1310-xor-queries-of-a-subarray](https://github.com/udaysingh07707/dsa-practice/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/udaysingh07707/dsa-practice/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/udaysingh07707/dsa-practice/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/udaysingh07707/dsa-practice/tree/master/0844-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/udaysingh07707/dsa-practice/tree/master/1094-car-pooling) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/udaysingh07707/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
