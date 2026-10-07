@@ -1,3 +1,14 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 
 class Solution {
 public:
@@ -5,19 +16,20 @@ public:
         if(root == NULL) return 0;
         return 1+max(lvl(root->left),lvl(root->right));
     }
-    void printnthlvl(TreeNode* root,int lvl,int level,vector<int>&k){
-        if(root == NULL) return;
-        if(lvl == level) k.push_back(root->val);
-        printnthlvl(root->left,lvl,level+1,k);
-        printnthlvl(root->right,lvl,level+1,k);
+    void getnthlvl(TreeNode* root,int level,int lvl,vector<int> &v){
+        if(root==nullptr) return;
+        if(level == lvl) v.push_back(root->val);
+        getnthlvl(root->left,level,lvl+1,v);
+        getnthlvl(root->right,level,lvl+1,v);
     }
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> v;
+      vector<vector<int>> v;
         int n = lvl(root);
         for(int i = 1;i<=n;i++){
             vector<int> k;
-            printnthlvl(root,i,1,k);
+            getnthlvl(root,i,1,k);
             v.push_back(k);
+
         }
         return v;
     }
