@@ -11,14 +11,10 @@
  */
 class Solution {
 public:
-    int lvl(TreeNode* root){
-        if(root == NULL) return 0;
-        return  1 + max(lvl(root->left),lvl(root->right));
-    }
+    
     vector<int> rightSideView(TreeNode* root) {
       if(root == nullptr) return {};
-      int n  = lvl(root);  
-      vector<int> v(n);
+      vector<int> v;
       queue<TreeNode*> q;
       q.push(root);
       int l = 0;
@@ -27,7 +23,9 @@ public:
         for(int i = 0;i<s;i++){
           TreeNode* cur = q.front();
           q.pop();
-          v[l] = cur->val;
+          if(i == s-1){
+          v.push_back(cur->val);
+          }
           if(cur->left) q.push(cur->left);
           if(cur->right) q.push(cur->right);
 
