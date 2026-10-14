@@ -11,13 +11,14 @@
  */
 class Solution {
 public:
-    void getpath(TreeNode* root,vector<vector<int>> &v, vector<int> path,int s,int t){
+    void getpath(TreeNode* root,vector<vector<int>> &v, vector<int> &path,int s,int t){
         if(root == NULL) return;
         path.push_back(root->val);
         s = s+root->val;
         if( (root->left == NULL && root->right==NULL) && (s == t)) v.push_back(path);
         getpath(root->left,v,path,s,t);
         getpath(root->right,v,path,s,t);
+        path.pop_back();
         
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
