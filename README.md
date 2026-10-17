@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaysingh07707/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/udaysingh07707/dsa-practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/udaysingh07707/dsa-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/udaysingh07707/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/udaysingh07707/dsa-practice/tree/master/0141-linked-list-cycle) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaysingh07707/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/udaysingh07707/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/udaysingh07707/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/udaysingh07707/dsa-practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/udaysingh07707/dsa-practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/udaysingh07707/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/udaysingh07707/dsa-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/udaysingh07707/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0148-sort-list) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/udaysingh07707/dsa-practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/udaysingh07707/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/udaysingh07707/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/udaysingh07707/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/udaysingh07707/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0073-set-matrix-zeroes) |
