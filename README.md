@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/udaysingh07707/dsa-practice/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/udaysingh07707/dsa-practice/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/udaysingh07707/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/udaysingh07707/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0344-reverse-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/udaysingh07707/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaysingh07707/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/udaysingh07707/dsa-practice/tree/master/0238-product-of-array-except-self) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/udaysingh07707/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [0649-dota2-senate](https://github.com/udaysingh07707/dsa-practice/tree/master/0649-dota2-senate) |
