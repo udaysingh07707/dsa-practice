@@ -1,50 +1,35 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector <int> v;
-        // first index
-        int low = 0,high = nums.size()-1,mid;
-        int idx1;
-        int flag = false;
-        while(low<=high){
-            mid = low + (high-low)/2;
-            if(nums[mid]==target){
-                flag = true;
-                idx1 = mid;
-                high = mid-1;
-            }else if(nums[mid]<target){
-                low = mid+1;
-            }else{
-                high = mid -1;
-            }
-        }
-        if(flag){
-        v.push_back(idx1);
-        }else{
-            v.push_back(-1);
-        }
-
-        //last index
-        int l = 0,h = nums.size()-1,m;
-        int idx2;
-        bool f= false;
+        int n = nums.size();
+        int l = 0;
+        int h = n-1;
+        int first = -1;
+        int last = -1;
         while(l<=h){
-            m = l + (h-l)/2;
-            if(nums[m]==target){
-                f = true;
-                idx2 = m;
-                l = m+1;
-            }else if(nums[m]<target){
-                l = m+1;
+            int mid = l + (h-l)/2;
+            if(nums[mid] == target){
+                first = mid;
+                h = mid-1;
+            }else if(nums[mid] > target){
+                h = mid-1;
             }else{
-                h = m-1;
+                l = mid+1;
             }
         }
-        if(f){
-        v.push_back(idx2);
-        }else{
-            v.push_back(-1);
+        l = 0;
+        h = n-1;
+        while(l<=h){
+            int  mid = l + (h-l)/2;
+            if(nums[mid] == target){
+                last = mid;
+                l = mid+1;
+            }else if(nums[mid] > target){
+                h = mid-1;
+            }else{
+                l = mid+1;
+            }
         }
-        return v;
+        return {first,last};
     }
 };
