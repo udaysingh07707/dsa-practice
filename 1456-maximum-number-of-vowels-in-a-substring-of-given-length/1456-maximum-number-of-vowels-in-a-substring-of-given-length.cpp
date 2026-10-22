@@ -5,13 +5,13 @@ public:
         int count = 0;
         int mx = 0;
         for(int i = 0;i<n;i++){
-            if(string("aeiou").find(s[i]) != string::npos){
+            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u'){
                 count++;
             }
             if(i>=k-1){
                 mx = max(count,mx);
                 int out = i-k+1;
-                if(string("aeiou").find(s[out]) != string::npos){
+                if(s[out] == 'a' || s[out] == 'e' || s[out] == 'i' || s[out] == 'o' || s[out] == 'u'){
                 count--;
                 } 
             }   
