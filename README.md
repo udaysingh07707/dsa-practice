@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/udaysingh07707/dsa-practice/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/udaysingh07707/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/udaysingh07707/dsa-practice/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/udaysingh07707/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0088-merge-sorted-array) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/udaysingh07707/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
 | [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/udaysingh07707/dsa-practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/udaysingh07707/dsa-practice/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/udaysingh07707/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/udaysingh07707/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
