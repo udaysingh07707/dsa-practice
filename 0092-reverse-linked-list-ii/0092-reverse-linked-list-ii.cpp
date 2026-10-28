@@ -1,40 +1,47 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* rev(ListNode* head){
-        if(head == nullptr|| head->next== nullptr) return head;
-        ListNode* prev = nullptr;
-        ListNode* cur = head;
-        while(cur!=nullptr){
-            ListNode* temp = cur->next;
-            cur->next = prev;
-            prev = cur;
-            cur = temp;
+    ListNode* reverselist(ListNode* l,ListNode* r){
+        ListNode* prev  = NULL;
+        ListNode* head = l;
+        while(head!=r){
+            ListNode* next = head->next;
+            head->next = prev;
+            prev = head;
+            head = next;
         }
         return prev;
     }
     ListNode* reverseBetween(ListNode* head, int left, int right) {
-        if(left ==  right) return head;
-        int n = 1;
-        ListNode* a = nullptr;
-        ListNode* b = nullptr;
-        ListNode* c = nullptr;
-        ListNode* d = nullptr;
-
-        ListNode* temp = head;
-        while(temp!=nullptr){
-            if(n == left-1) a = temp;
-            else if(n == left) b = temp;
-            else if(n ==  right) c = temp;
-            else if( n == right+1)  d = temp;
-            n++;
-            temp = temp->next;
+        if(head->next == NULL ) return head;
+        ListNode* l = head;;
+        ListNode* lp = nullptr;
+        ListNode* r = nullptr;
+        ListNode* rn = head;
+        while(left > 1){
+            lp = l;
+            l = l->next;
+            left--;
         }
-        if (a) a->next = nullptr;
-        c->next = nullptr;
-        c = rev(b);
-        if (a) a->next = c;
-        b->next = d;
-        if(a) return head;
-        else return c;
+        while(right > 0){
+            r = rn;
+            rn = rn->next;
+            right--;
+        }
+        ListNode* node = reverselist(l,rn);
+        if(lp == NULL) head = node;
+        else lp->next = node;
+        l->next = rn;
+
+         return head;
     }
 };
