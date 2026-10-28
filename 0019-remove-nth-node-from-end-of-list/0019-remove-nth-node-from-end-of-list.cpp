@@ -15,14 +15,15 @@ public:
         ListNode* slow = head;
         ListNode* fast = head;
         for(int i = 0;i<=n;i++){
-        if(fast == nullptr) return head->next;
+            if(fast == NULL) return head->next;
             fast = fast->next;
         }
-        while(fast!=nullptr){
+        while(fast){
             slow = slow->next;
             fast = fast->next;
         }
         slow->next = slow->next->next;
         return head;
+
     }
 };
