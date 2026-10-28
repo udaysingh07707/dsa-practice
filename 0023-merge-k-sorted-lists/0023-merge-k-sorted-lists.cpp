@@ -1,42 +1,53 @@
-
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* merge( ListNode* a, ListNode* b){
-         ListNode* newnode = new  ListNode(0);
-          ListNode* temp = newnode;
-          while(a!=nullptr&& b!=nullptr){
-          if(a->val<b->val){
+    ListNode* merge(ListNode* a,ListNode* b){
+        ListNode dummy(-1);
+        ListNode* temp = &dummy;
+       
+
+        while(a && b){
+            if(a->val < b->val){
             temp->next = a;
-            temp = temp->next;
             a = a->next;
-          }else{
+            } 
+            else{
             temp->next = b;
-            temp = temp->next;
             b = b->next;
-          }
-          }
-        if(a==nullptr){
+            } 
+            temp = temp->next;
+            
+        }
+        if(a == NULL){
             temp->next = b;
         }else{
             temp->next = a;
         }
-        return newnode->next;
+        return dummy.next;
+    }
+    ListNode* mergesort(int s , int e ,vector<ListNode*>& lists){
+       if(s > e) return NULL ;
+        if(s == e) return lists[s];
+        int mid = s +  (e-s)/2;
+
+        ListNode* a = mergesort(s,mid,lists);
+        ListNode* b = mergesort(mid+1,e,lists);
+        
+        return merge(a,b);
+
+       
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        
-        if(lists.size()<1){
-            return NULL;
-        }
-        int  n = lists.size();
-        while(n>1){
-            int j = 0;
-           for(int i = 0;i<n;i += 2){
-            if(i+1<n) lists[j++] = merge(lists[i],lists[i+1]);
-            else lists[j++] = lists[i];
-           }
-           n = j;
-
-        }
-        return lists[0];
+        int n = lists.size();
+        return mergesort(0,n-1,lists);
     }
 };
