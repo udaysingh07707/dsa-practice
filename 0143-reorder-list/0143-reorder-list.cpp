@@ -1,40 +1,45 @@
-
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* rev(ListNode* head){
-        if(head == nullptr || head->next == nullptr) return head;
-        ListNode* cur = head;
-        ListNode* prev = nullptr;
-        while(cur!=nullptr){
-            ListNode* temp = cur->next;
-            cur->next = prev;
-            prev  =cur;
-            cur = temp;
-        }
-        return prev;
+    ListNode* rev(ListNode* head) {
+        if (head==NULL || head->next == NULL)
+            return head;
+        ListNode* newhead = rev(head->next);
+        head->next->next = head;
+        head->next = nullptr;
+        return newhead;
     }
     void reorderList(ListNode* head) {
-        if(head->next == nullptr) return;
+        if (head == NULL || head->next == NULL) return;
         ListNode* slow = head;
-        ListNode* fast = head->next;
-        while(fast!=nullptr && fast->next!=nullptr){
+        ListNode* fast = head;
+        while (fast != NULL && fast->next != NULL) {
             slow = slow->next;
             fast = fast->next->next;
         }
-
-        ListNode* nextnode = slow->next;
-        slow->next = nullptr;
-
-        ListNode* newnode =  rev(nextnode);
+        ListNode* newnode =  rev(slow->next);
+        slow->next = NULL;
 
         ListNode* temp = head;
 
         while(newnode!=nullptr){
-            ListNode* newtemp = newnode;
-            newnode  = newnode->next;
-            newtemp->next = temp->next;
-            temp->next = newtemp;
-            temp = temp->next->next;
+             ListNode* ntemp = temp->next;
+              ListNode* nnew = newnode->next;
+
+              temp->next = newnode;
+              newnode->next = ntemp;
+              
+             temp = ntemp;
+             newnode = nnew;
         }
     }
 };
