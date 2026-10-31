@@ -11,35 +11,45 @@
 class Solution {
 public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
-        vector<ListNode*> v(k,nullptr);
-        int n = 0;
+        vector<ListNode*> v(k, NULL);
+        if (head == NULL)
+            return v;
+        int len = 0;
         ListNode* temp = head;
-        while(temp){
+        while (temp) {
+            len++;
             temp = temp->next;
-            n++;
         }
-        int r = n%k;
-        int p = n/k;
-
+        int grp = len / k;
+        int e = len % k;
         temp = head;
+        int count = 1;
+        bool flag = true;
         int i = 0;
-        while(temp){
-          int size = p;
-          if(r>0){
-            size++;
-            r--;
-          }
-            v[i++] = temp;
-          for(int i = 1;i<size;i++){
-            temp = temp->next;
-          }
-          ListNode* store = temp;
-            temp = temp->next;
-            store->next = nullptr;
+        while (temp) {
+            if (i < e && count >= grp + 1) {
+               ListNode* nxt = temp->next;
+                temp->next = nullptr;
+                v[i] = head;
+                temp = nxt;
+                head = temp;
+                count = 1;
+                i++;
+                flag = true;
+            } else if (i >= e && count >= grp) {
+                 ListNode* nxt = temp->next;
+                temp->next = nullptr;
+                v[i] = head;
+                temp = nxt;
+                head = temp;
+                count = 1;
+                i++;
+                flag = true;
+            } else {
+                temp = temp->next;
+                count++;
+            }
         }
         return v;
-
-
-
     }
 };
