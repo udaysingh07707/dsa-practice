@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udaysingh07707/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/udaysingh07707/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaysingh07707/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/udaysingh07707/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/udaysingh07707/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/udaysingh07707/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/udaysingh07707/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
