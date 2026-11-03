@@ -5,14 +5,14 @@ public:
         vector<vector<string>> v;
         int n = strs.size();
         for(int i = 0;i<n;i++){
-            string s = strs[i];
+            string s =  strs[i];
             sort(s.begin(),s.end());
             mp[s].push_back(strs[i]);
         }
-        for(auto ch : mp){
-            v.push_back(ch.second);
+        for(auto a : mp){
+            v.push_back(a.second);
         }
         return v;
-        
+            
     }
 };
