@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/udaysingh07707/dsa-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/udaysingh07707/dsa-practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -162,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/udaysingh07707/dsa-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2614-prime-in-diagonal](https://github.com/udaysingh07707/dsa-practice/tree/master/2614-prime-in-diagonal) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/udaysingh07707/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -642,4 +645,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/udaysingh07707/dsa-practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/udaysingh07707/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/udaysingh07707/dsa-practice/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
