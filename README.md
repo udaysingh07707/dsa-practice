@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/udaysingh07707/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/udaysingh07707/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/udaysingh07707/dsa-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/udaysingh07707/dsa-practice/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/udaysingh07707/dsa-practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/udaysingh07707/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysingh07707/dsa-practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/udaysingh07707/dsa-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2326-spiral-matrix-iv](https://github.com/udaysingh07707/dsa-practice/tree/master/2326-spiral-matrix-iv) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/udaysingh07707/dsa-practice/tree/master/0383-ransom-note) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/udaysingh07707/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/udaysingh07707/dsa-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Greedy
 |  |
