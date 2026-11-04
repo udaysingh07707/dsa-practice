@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/udaysingh07707/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/udaysingh07707/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/udaysingh07707/dsa-practice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaysingh07707/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/udaysingh07707/dsa-practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/udaysingh07707/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/udaysingh07707/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/udaysingh07707/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/udaysingh07707/dsa-practice/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/udaysingh07707/dsa-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/udaysingh07707/dsa-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/udaysingh07707/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/udaysingh07707/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/udaysingh07707/dsa-practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -657,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/udaysingh07707/dsa-practice/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/udaysingh07707/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
