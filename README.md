@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/udaysingh07707/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/udaysingh07707/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/udaysingh07707/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/udaysingh07707/dsa-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/udaysingh07707/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/udaysingh07707/dsa-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/udaysingh07707/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/udaysingh07707/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/udaysingh07707/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysingh07707/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/udaysingh07707/dsa-practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1052-grumpy-bookstore-owner](https://github.com/udaysingh07707/dsa-practice/tree/master/1052-grumpy-bookstore-owner) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/udaysingh07707/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/udaysingh07707/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/udaysingh07707/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/udaysingh07707/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/udaysingh07707/dsa-practice/tree/master/1052-grumpy-bookstore-owner) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/udaysingh07707/dsa-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/udaysingh07707/dsa-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/udaysingh07707/dsa-practice/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/udaysingh07707/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/udaysingh07707/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/udaysingh07707/dsa-practice/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Greedy
