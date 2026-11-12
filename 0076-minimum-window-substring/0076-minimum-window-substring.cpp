@@ -17,19 +17,20 @@ public:
             window[s[j]]++;
             if (mp.find(s[j]) != mp.end()) {
                 if (mp[s[j]] == window[s[j]]) {
-                   formed++;
+                    formed++;
                 }
             }
             while (formed == mp.size()) {
-                
-                 end = j;
-                 if(j-i+1 < len) start = i;
-                len = min(len,j-i+1);
+
+                if (j - i + 1 < len) {
+                    len = j - i + 1;
+                    start = i;
+                    end = j;
+                }
 
                 if (mp.find(s[i]) != mp.end()) {
                     if (mp[s[i]] == window[s[i]]) {
                         formed--;
-                        
                     }
                 }
                 window[s[i]]--;
@@ -37,6 +38,6 @@ public:
             }
             j++;
         }
-       return  len == INT_MAX?"":s.substr(start,len);
+        return len == INT_MAX ? "" : s.substr(start, len);
     }
 };
