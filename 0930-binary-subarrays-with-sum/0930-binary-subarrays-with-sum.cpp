@@ -1,12 +1,14 @@
 class Solution {
 public:
-    int subarray(vector<int>& nums,int goal){
+    int atmostK(vector<int>& nums, int goal){
+        unordered_map<int,int> mp;
+        int n = nums.size();
         int i = 0;
-        int j = 0;
+        int  j = 0;
         int sum = 0;
         int count = 0;
-        while(j<nums.size()){
-           sum += nums[j];
+        while(j<n){
+            sum += nums[j];
             while(sum>goal){
                 sum -= nums[i];
                 i++;
@@ -17,7 +19,6 @@ public:
         return count;
     }
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-      return (goal ==0)?subarray(nums,goal): subarray(nums,goal) - subarray(nums,goal-1);
-
+        return goal == 0?atmostK(nums,goal): atmostK(nums,goal) - atmostK(nums,goal-1);
     }
 };
