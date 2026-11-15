@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/udaysingh07707/dsa-practice/tree/master/1920-build-array-from-permutation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/udaysingh07707/dsa-practice/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/udaysingh07707/dsa-practice/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/udaysingh07707/dsa-practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/udaysingh07707/dsa-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
