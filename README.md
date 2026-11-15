@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/udaysingh07707/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0525-contiguous-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysingh07707/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/udaysingh07707/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/udaysingh07707/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/udaysingh07707/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysingh07707/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/udaysingh07707/dsa-practice/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/udaysingh07707/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/udaysingh07707/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/udaysingh07707/dsa-practice/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/udaysingh07707/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/udaysingh07707/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/udaysingh07707/dsa-practice/tree/master/0930-binary-subarrays-with-sum) |
