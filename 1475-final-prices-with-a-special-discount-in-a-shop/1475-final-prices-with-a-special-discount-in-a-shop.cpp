@@ -2,20 +2,19 @@ class Solution {
 public:
     vector<int> finalPrices(vector<int>& prices) {
         int n = prices.size();
-        vector<int> v(n);
         stack<int> st;
-        st.push(prices[n-1]);
-        v[n-1] = st.top();
-        for(int i = n-2 ;i>=0;i--){
-            while(st.size()>0 && prices[i] < st.top() ){
-             st.pop();
+        vector<int> v;
+        unordered_map<int,int> mp;
+        for(int i = 0;i<n;i++){
+            mp[i] = -1;
+            while(!st.empty() && prices[st.top()] >= prices[i]){
+                mp[st.top()] = i;
+                st.pop();
             }
-            if(st.empty()){
-                v[i] = prices[i];
-            }else{
-                v[i] = prices[i] - st.top();
-            }
-            st.push(prices[i]);
+            st.push(i);
+        }
+        for(int i = 0;i<n;i++){
+            mp[i] == -1?v.push_back(prices[i]):v.push_back(prices[i] -  prices[mp[i]]);
         }
         return v;
     }
