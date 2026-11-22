@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/udaysingh07707/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/udaysingh07707/dsa-practice/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/udaysingh07707/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/udaysingh07707/dsa-practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0567-permutation-in-string) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/udaysingh07707/dsa-practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0394-decode-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/udaysingh07707/dsa-practice/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/udaysingh07707/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/udaysingh07707/dsa-practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/udaysingh07707/dsa-practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/udaysingh07707/dsa-practice/tree/master/0739-daily-temperatures) |
