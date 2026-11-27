@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/udaysingh07707/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0179-largest-number) |
+| [0227-basic-calculator-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/udaysingh07707/dsa-practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/udaysingh07707/dsa-practice/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0344-reverse-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/udaysingh07707/dsa-practice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/udaysingh07707/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/udaysingh07707/dsa-practice/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/udaysingh07707/dsa-practice/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/udaysingh07707/dsa-practice/tree/master/0380-insert-delete-getrandom-o1) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/udaysingh07707/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/udaysingh07707/dsa-practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/udaysingh07707/dsa-practice/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/udaysingh07707/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/udaysingh07707/dsa-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/udaysingh07707/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/udaysingh07707/dsa-practice/tree/master/0394-decode-string) |
